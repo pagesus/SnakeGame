@@ -10,4 +10,4 @@ A Simple diy snake game implemented by pure C and C++
     4)cd to relase or debug directory then execute ./SnakeGame_Release or ./SnakeGame_debug, you can play SnakeGame, enjoy it!
 
 ## 3 Test in Linux (CentOS)
-![test_on_centOS](./image/test_on_centOS.PNG "test_on_centOS")
+![test_on_centOS](./Image/test_on_centOS.PNG "test_on_centOS")
